@@ -1,5 +1,5 @@
 # My Code here....
-def map_to_negative(array)
+def map_to_negativize(array)
   negative_numbers = []
   
   for num in array do
